@@ -1,16 +1,59 @@
-# al_quran
 
-A new Flutter project.
+# Al Quran
 
-## Getting Started
+Welcome to the Al Quran app, your comprehensive companion for reading and listening to the Holy Quran. This app features a variety of functionalities, including:
 
-This project is a starting point for a Flutter application.
+- **Holy Quran**: Access the complete text of the Quran.
+- **Favorite Surahs**: Mark your favorite Surahs for easy access.
+- **Audio Quran**: Listen to beautiful recitations of the Quran.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- **Translations Available**:
+  - English (Saheeh International)
+  - English (Clear Quran)
+  - French (Muhammad Hamidullah)
+  - Turkish
+  - Malayalam
+  - Farsi
+  - Portuguese
+  - Italian
+  - Dutch
+  - Russian
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Each translation is easily accessible to help users understand the teachings of the Quran in their preferred language.
+
+## Installation
+
+To clone and run this project, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/yourusername/al-quran.git
+
+
+
+## Project Duration
+**2 October 2024 - 5 October 2024**
+## Deployment
+
+1. **Clone the repository**:
+
+```bash
+git clone <repo-url>
+```
+2. **Navigate to the Project Directory**:
+
+```bash
+cd al_quran
+```
+3. **Install Dependencies**:
+
+```bash
+flutter pub get
+```
+4. **Run the App**:
+
+```bash
+flutter run
+```
